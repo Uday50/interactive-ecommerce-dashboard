@@ -12,8 +12,7 @@ The dashboard includes various visualizations and metrics such as:
 
 ## Screenshots 🖼️
 <!-- Add your screenshots here. For example: -->
-![Sales Overview](Images/sales_overview.png)
-![Customer Demographics](Images/customer_demographics.png)
+![Sales Overview](Images/overview.png)
 
 ## Features ✨
 - Interactive charts and graphs
