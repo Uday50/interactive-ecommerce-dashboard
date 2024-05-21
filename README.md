@@ -8,7 +8,6 @@ The dashboard includes various visualizations and metrics such as:
 - Sales by category and region
 - Customer demographics
 - Sales trends over time
-- Top-selling products
 - Key performance indicators (KPIs)
 
 ## Screenshots 🖼️
