@@ -12,7 +12,8 @@ The dashboard includes various visualizations and metrics such as:
 
 ## Screenshots 🖼️
 <!-- Add your screenshots here. For example: -->
-![Sales Overview](Images/overview.png)
+![Sales Overview]<img src="Images/TodoList.png" alt="Home Page" width="300px" height="200px">
+
 
 ## Features ✨
 - Interactive charts and graphs
