@@ -28,7 +28,7 @@ The dashboard includes various visualizations and metrics such as:
 - **Power BI:** For creating interactive and visually appealing dashboards.
 
 ## External Links 🔗
-- [Repository](https://github.com/yourusername/interactive-ecommerce-dashboard)
+- [Repository](https://github.com/Uday50/interactive-ecommerce-dashboard)
 
 Feel free to explore the repository and provide feedback or contributions. Issues and feature requests are welcome!
 
